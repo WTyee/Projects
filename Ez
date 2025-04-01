@@ -1,0 +1,4 @@
+while true do
+    game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("BarrierPush"):FireServer()
+    task.wait(0.1)
+end
