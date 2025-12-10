@@ -824,7 +824,7 @@ function Library:create_ui()
         Tab.AutoButtonColor = false
         Tab.BackgroundTransparency = 1
         Tab.Name = 'Tab'
-        Tab.Size = UDim2.new(0, 129, 0, 38)
+        UDim2.new(0, 103, 0, 30)
         Tab.BorderSizePixel = 0
         Tab.TextSize = 14
         Tab.BackgroundColor3 = Color3.fromRGB(22, 28, 38)
@@ -2597,3 +2597,4 @@ function Library:create_ui()
 end
 
 return Library
+
