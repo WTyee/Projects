@@ -33,7 +33,6 @@ return {
 		["rbxassetid://5121733951"] = { Delay = 0.25, ParryGap = 0.55, MinDist = 0.1, MaxDist = 50, ParryAmount = 2, Type = "Parry" }, -- Double
 		["rbxassetid://97269504567525"] = { Delay = 0.35, ParryGap = 0.55, MinDist = 0.1, MaxDist = 50, ParryAmount = 4, Type = "Parry" }, -- Quad
 		["rbxassetid://11710417615"] = { Delay = 0.25, ParryGap = 0.1, MinDist = 0.1, MaxDist = 50, ParryAmount = 2, Type = "Parry" }, -- Quad
-		["rbxassetid://11710290503"] = { Delay = 0.25, ParryGap = 0.1, MinDist = 0.1, MaxDist = 50, ParryAmount = 2, Type = "Parry" }, -- Quad
 		["rbxassetid://11710290503"] = { Delay = 0.45, MinDist = 0.1, MaxDist = 50, Type = "Roll" },
 		["rbxassetid://9903304018"] = { Delay = 0.35, MinDist = 0.1, MaxDist = 50, Type = "Roll" },
 		["rbxassetid://91389074160755"] = { Delay = 2.75, MinDist = 0.1, MaxDist = 50, Type = "Roll" },
@@ -67,7 +66,6 @@ return {
 		["rbxassetid://5067105317"] = { Delay = 0.390, ParryGap = 0.000, MinDist = 1, MaxDist = 50, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://5117879514"] = { Delay = 0.250, ParryGap = 0.000, MinDist = 1, MaxDist = 35, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://5120461115"] = { Delay = 0.300, ParryGap = 0.000, MinDist = 1, MaxDist = 100, ParryAmount = 1, Type = "Parry" },
-		["rbxassetid://5121733951"] = { Delay = 0.250, ParryGap = 0.460, MinDist = 1, MaxDist = 35, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://5121896072"] = { Delay = 0.250, ParryGap = 0.000, MinDist = 1, MaxDist = 50, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://5641344204"] = { Delay = 0.250, ParryGap = 0.000, MinDist = 1, MaxDist = 150, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://5641574212"] = { Delay = 0.250, ParryGap = 0.000, MinDist = 1, MaxDist = 100, ParryAmount = 1, Type = "Parry" },
@@ -393,7 +391,6 @@ return {
 		["rbxassetid://11572468462"] = { Delay = 0.100, ParryGap = 0.000, MinDist = 1, MaxDist = 12, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://11573034823"] = { Delay = 0.100, ParryGap = 0.000, MinDist = 1, MaxDist = 12, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://11638263796"] = { Delay = 0.150, ParryGap = 0.000, MinDist = 1, MaxDist = 20, ParryAmount = 1, Type = "Parry" },
-		["rbxassetid://11710290503"] = { Delay = 0.420, ParryGap = 0.000, MinDist = 1, MaxDist = 40, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://11710316011"] = { Delay = 0.350, ParryGap = 0.000, MinDist = 1, MaxDist = 35, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://11710417615"] = { Delay = 0.250, ParryGap = 0.000, MinDist = 1, MaxDist = 90, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://11834545925"] = { Delay = 0.250, ParryGap = 0.000, MinDist = 1, MaxDist = 30, ParryAmount = 1, Type = "Parry" },
@@ -474,3 +471,4 @@ return {
 		["rbxassetid://8198492537"] = { Delay = 0.3, ParryGap = 0.12, MinDist = 0, MaxDist = 25, ParryAmount = 1, Type = "Parry" },
 		["rbxassetid://74575549085897"] = { Delay = 0.35, ParryGap = 0.12, MinDist = 0, MaxDist = 25, ParryAmount = 1, Type = "Parry" },
 }
+
